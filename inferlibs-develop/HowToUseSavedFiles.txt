@@ -1,0 +1,8 @@
+save_box: 
+   [persons, 5 columns], 5 columns are: [x0,y0,x1,y1,score] where (x0,y0), (x1,y1) are two corners of the box, 
+                                                     the origin is the left-top corner.  
+                                                     threshold for scores might be 0.7 to 0.9.
+
+save_kps:
+   [persons, 3, 19], 3 columns are: [x,y,keypoint_Score] for each of 19 keypoints.  
+                                                     threshold for keypoint scores might be 2.

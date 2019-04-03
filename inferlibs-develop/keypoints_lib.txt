@@ -1,0 +1,50 @@
+# Detectron
+nose
+left_eye
+right_eye
+left_ear
+right_ear
+left_shoulder
+right_shoulder
+left_elbow
+right_elbow
+left_wrist
+right_wrist
+left_hip
+right_hip
+left_knee
+right_knee
+left_ankle
+right_ankle
+mid_shoulder
+mid_hip
+
+
+
+# OpenPose
+// Result for COCO (18 body parts)
+// POSE_COCO_BODY_PARTS {
+//     {0,  "Nose"},
+//     {1,  "Neck"},
+//     {2,  "RShoulder"},
+//     {3,  "RElbow"},
+//     {4,  "RWrist"},
+//     {5,  "LShoulder"},
+//     {6,  "LElbow"},
+//     {7,  "LWrist"},
+//     {8,  "RHip"},
+//     {9,  "RKnee"},
+//     {10, "RAnkle"},
+//     {11, "LHip"},
+//     {12, "LKnee"},
+//     {13, "LAnkle"},
+//     {14, "REye"},
+//     {15, "LEye"},
+//     {16, "REar"},
+//     {17, "LEar"},
+//     {18, "Background"},
+// }
+
+
+
+
