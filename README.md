@@ -27,6 +27,6 @@ This repository contains the implementation of:
 * Layer-wise Relevance Propagation (LRP) technique to highlight which input features the deep neural network uses to support its output.
 
 ![arch](fig/lrp.png)
-### Link: 
+
 [[paper]](https://arxiv.org/abs/1808.04260)
 [[github]](https://github.com/albermax/innvestigate)
