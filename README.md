@@ -2,6 +2,8 @@
 
 This repository provides the code of Facial Traits Rating Prediction and Neural network Visualization mentioned in paper : Comprehensive social trait judgments from faces in autism spectrum disorder.
 
+Stay tuned for the updating !!!
+
 ### Link: 
 [[PDF]](https://europepmc.org/article/ppr/ppr537217)
 
