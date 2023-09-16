@@ -34,11 +34,13 @@ Each image has different social trait ratings as label data.
 [[paper]](https://arxiv.org/abs/1808.04260)
 [[github]](https://github.com/albermax/innvestigate)
 
-# Some result
+# Some results
 * Some visualzation saliency maps of single face image for strong trait for ASD and Non-ASD participants.
+  
 ![arch](fig/strong.png)
 
 * Average saliency map of 500 face images about warm and strong social traits.
+  
 ![arch](fig/lrp_result.png)
 
 
