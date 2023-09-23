@@ -1,7 +1,6 @@
 # Facial Traits Rating Prediction Using Deep Model
 
 This repository provides the code of Facial Traits Rating Prediction and Neural network Visualization mentioned in paper : 
-
 Comprehensive social trait judgments from faces in autism spectrum disorder. Runnan Cao, Na Zhang, Hongbo Yu, Paula J. Webster, Lynn K. Paul, Xin Li, Chujun Lin, and Shuo Wang. Psy-
 chological Science (2023).
 
