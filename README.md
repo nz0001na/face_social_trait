@@ -47,6 +47,6 @@ Each image has different social trait ratings as label data.
 
 # Content
 This repository contains the implementation of:
-* VGG16 based regression model 
-* LRP Analysis
+* VGG16 based deep regression model 
+* LRP Analysis Algorithm
 
