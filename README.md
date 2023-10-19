@@ -6,7 +6,7 @@ Comprehensive social trait judgments from faces in autism spectrum disorder. Run
 Stay tuned for the updating !!!
 
 ### Link: 
-[[Publish]](https://journals.sagepub.com/doi/10.1177/09567976231192236)
+[[Paper]](https://journals.sagepub.com/doi/10.1177/09567976231192236)
 
 [[Pre-print]](https://europepmc.org/article/ppr/ppr537217)
 
