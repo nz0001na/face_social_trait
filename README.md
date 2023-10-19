@@ -6,7 +6,9 @@ Comprehensive social trait judgments from faces in autism spectrum disorder. Run
 Stay tuned for the updating !!!
 
 ### Link: 
-[[PDF]](https://europepmc.org/article/ppr/ppr537217)
+[[Publish]](https://journals.sagepub.com/doi/10.1177/09567976231192236)
+
+[[Pre-print]](https://europepmc.org/article/ppr/ppr537217)
 
 # Introduction
 * People often make trait judgments about unfamiliar others based on their faces in the absence of context or other information, such as forming an impression that someone looks friendly, trustworthy, or strong.
